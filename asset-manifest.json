@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/pet.github.io/static/css/main.27155011.chunk.css",
-    "main.js": "/pet.github.io/static/js/main.e1ec3b9b.chunk.js",
-    "main.js.map": "/pet.github.io/static/js/main.e1ec3b9b.chunk.js.map",
+    "main.css": "/pet.github.io/static/css/main.a78913d8.chunk.css",
+    "main.js": "/pet.github.io/static/js/main.59ba3dfc.chunk.js",
+    "main.js.map": "/pet.github.io/static/js/main.59ba3dfc.chunk.js.map",
     "runtime-main.js": "/pet.github.io/static/js/runtime-main.cab4a118.js",
     "runtime-main.js.map": "/pet.github.io/static/js/runtime-main.cab4a118.js.map",
     "static/js/2.a972b390.chunk.js": "/pet.github.io/static/js/2.a972b390.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.41221a1d.chunk.js": "/pet.github.io/static/js/3.41221a1d.chunk.js",
     "static/js/3.41221a1d.chunk.js.map": "/pet.github.io/static/js/3.41221a1d.chunk.js.map",
     "index.html": "/pet.github.io/index.html",
-    "static/css/main.27155011.chunk.css.map": "/pet.github.io/static/css/main.27155011.chunk.css.map",
+    "static/css/main.a78913d8.chunk.css.map": "/pet.github.io/static/css/main.a78913d8.chunk.css.map",
     "static/js/2.a972b390.chunk.js.LICENSE.txt": "/pet.github.io/static/js/2.a972b390.chunk.js.LICENSE.txt",
     "static/media/delete_basket.1edb1a32.svg": "/pet.github.io/static/media/delete_basket.1edb1a32.svg",
     "static/media/people.0c1eddfc.svg": "/pet.github.io/static/media/people.0c1eddfc.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.cab4a118.js",
     "static/js/2.a972b390.chunk.js",
-    "static/css/main.27155011.chunk.css",
-    "static/js/main.e1ec3b9b.chunk.js"
+    "static/css/main.a78913d8.chunk.css",
+    "static/js/main.59ba3dfc.chunk.js"
   ]
 }
